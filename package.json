@@ -1,0 +1,18 @@
+{
+  "name": "jofan-foundation-block-grid",
+  "description": "Block grid component of Zurb's Foundation framework 4",
+  "version": "4.0.8",
+  "keywords": [
+    "CSS",
+    "grid",
+    "framework",
+    "foundation"
+  ],
+  "styles": [
+    "foundation-block-grid.css"
+  ],
+  "dependencies": {
+    "jofan-foundation-global": "git://github.com/npmcomponent/jofan-foundation-global.git"
+  },
+  "license": "MIT"
+}
